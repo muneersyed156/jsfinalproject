@@ -122,7 +122,8 @@ html,body{
     }
     
     #conf{
-        margin-left:270px;
+        margin-left:30vw;
+        margin-right:30vw;
         margin-top:50px;
     }
     #conf img{

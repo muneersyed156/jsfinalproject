@@ -54,6 +54,7 @@ li{
 p{
       text-align: left;
 }
+
 footer{
       margin-top:20px;
       width:100%;
@@ -62,7 +63,8 @@ footer{
 }
 #clo,#acc{
       width:100%;
-      margin-left:40px;
+      margin-left:12vw;
+      margin-right:12vw;
       padding-top:60px;
 }
 
@@ -164,7 +166,8 @@ table{
       }
       #clo,#acc{
             width:100%;
-            margin-left:40px;
+            margin-left:12vw;
+            margin-right:12vw;
             padding-top:60px;
       }
       
