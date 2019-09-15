@@ -1,0 +1,205 @@
+body{
+      margin:0;
+      overflow-x: hidden;
+}
+#txt{
+      border-radius:12px;
+      height:24px;
+      width:350px;
+      margin-left:10px;
+}
+#count{
+      position:absolute;
+      background-color: cyan;
+        margin-left:-23px;
+        border:none;
+        outline:0;
+        border-radius:50%;
+}
+#cart{
+      padding:8px 16px;
+      margin-left:50px;
+      border:none;
+      outline:none;
+      border-radius:20px;
+      background-color:white;
+      cursor:pointer; 
+      color:black; 
+}
+header{
+      position:sticky;
+      top:0;
+      z-index:10;
+      width: 100vw;
+      background-color:white;
+      padding-top:8px;
+      padding-bottom:3px;
+      box-shadow:4px 4px 10px black;
+}
+
+li{
+      list-style-type:none;
+      display:inline;
+}
+#caeraoul-cointer{
+      margin-top:20px;
+      height:250px;
+      border:none;
+      outline:none;
+}
+#caeraoul-cointer img{
+      width:75%;
+      margin-left:12vw;
+}
+p{
+      text-align: left;
+}
+footer{
+      margin-top:20px;
+      width:100%;
+      height:280px;
+      background-color:black;
+}
+#clo,#acc{
+      width:100%;
+      margin-left:40px;
+      padding-top:60px;
+}
+
+#clo button,#acc button{
+      background-size:cover;
+     margin-left:1px;
+      background-color: white;
+      height:300px;
+      width:200px;
+      cursor:pointer;
+      border:none;
+      outline:none;
+      margin-top:20px;
+}
+
+table{
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      text-align: left;
+      border-color:10px solid white;
+      font-size: 14px;
+  }
+  #logo{
+        margin-left:1200px;
+      position: fixed;
+      z-index:10;
+      opacity: 0.7;
+  }
+  html,body{
+        width:100%;
+        height:100%;
+        padding:0%;
+        overflow-x:hidden;
+  }
+  @media screen and (min-width:700px){
+      body{
+            margin:0;
+            overflow-x: hidden;
+      }
+      #txt{
+            border-radius:12px;
+            height:24px;
+            width:350px;
+            margin-left:10px;
+      }
+      #count{
+            position:absolute;
+            background-color: cyan;
+              margin-left:-23px;
+              border:none;
+              outline:0;
+              border-radius:50%;
+      }
+      #cart{
+            padding:8px 16px;
+            margin-left:50px;
+            border:none;
+            outline:none;
+            border-radius:20px;
+            background-color:white;
+            cursor:pointer; 
+            color:black; 
+      }
+      header{
+            position:sticky;
+            top:0;
+            z-index:10;
+            width: 100vw;
+            background-color:white;
+            padding-top:8px;
+            padding-bottom:3px;
+            box-shadow:4px 4px 10px black;
+      }
+      
+      li{
+            list-style-type:none;
+            display:inline;
+      }
+      #caeraoul-cointer{
+            margin-top:20px;
+            height:250px;
+            border:none;
+            outline:none;
+      }
+      #caeraoul-cointer img{
+            width:75%;
+            margin-left:12vw;
+      }
+      p{
+            text-align: left;
+      }
+      footer{
+            margin-top:20px;
+            width:100%;
+            height:280px;
+            background-color:black;
+      }
+      #clo,#acc{
+            width:100%;
+            margin-left:40px;
+            padding-top:60px;
+      }
+      
+      #clo button,#acc button{
+            background-size:cover;
+           margin-left:1px;
+            background-color: white;
+            height:300px;
+            width:200px;
+            cursor:pointer;
+            border:none;
+            outline:none;
+            margin-top:20px;
+      }
+      
+      table{
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            color: white;
+            text-align: left;
+            border-color:10px solid white;
+            font-size: 14px;
+        }
+        #logo{
+              margin-left:1200px;
+            position: fixed;
+            z-index:10;
+            opacity: 0.7;
+        }
+        html,body{
+              width:100%;
+              height:100%;
+              padding:0%;
+              overflow-x:hidden;
+        }
+  }
+
