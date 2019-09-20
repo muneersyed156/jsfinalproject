@@ -78,6 +78,9 @@ html,body{
     padding:0%;
     overflow-x:hidden;
 }
+#container{
+    min-height:75vh;
+}
 @media screen and (min-width:700px){
     body{
         margin:0;
@@ -122,8 +125,7 @@ html,body{
     }
     
     #conf{
-        margin-left:30vw;
-        margin-right:30vw;
+        margin-left:270px;
         margin-top:50px;
     }
     #conf img{
@@ -153,5 +155,8 @@ html,body{
         float:right;
         z-index:10;
         opacity: 0.7;
+    }
+    #container{
+        min-height:75vh;
     }
 }

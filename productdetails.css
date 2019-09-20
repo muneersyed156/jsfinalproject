@@ -60,7 +60,6 @@ li{
     outline:none;
     cursor:pointer;
     background-color: white;
-    margin-top:20px;
 }
 
 .btim img {
@@ -124,6 +123,9 @@ html,body{
     height:100%;
     padding:0%;
     overflow-x:hidden;
+}
+#container{
+    min-height:75vh;
 }
 @media screen and (min-width:700px){
     body{
@@ -246,4 +248,7 @@ html,body{
         z-index:10;
         opacity: 0.7;
     }
+    #container{
+        min-height:75vh;
+  }
 }
